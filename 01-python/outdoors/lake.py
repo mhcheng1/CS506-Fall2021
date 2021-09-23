@@ -1,3 +1,7 @@
 def draw_lake():
-    print("lake not found")
+    print('  (O) ')
+    print(' (OOO)')
+    print('(0O0OO)')
+    print(' (OOO)')
+    print('  (O) ')
     return
